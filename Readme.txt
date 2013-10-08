@@ -1,5 +1,5 @@
 Hello World.
 
-Welcome to my first GitHub epo.
+Welcome to my first GitHub repo.
 
 Regards Lars
